@@ -1,4 +1,24 @@
 h1 {
-  color:purple;
-  font-size: 30;
+  color:red;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: underline;
+}
+h2{
+  colour:white;
+  font-family: inherit;
+  padding: 5px;
+}
+p{
+  color: blue;
+  font-family: cursive;
+  font-size: 20px;
+  border: 1px solid powederblue;
+  padding: 30px;
+}
+body{
+  background-color: green;
+}
+img{
+  float: right;
 }
