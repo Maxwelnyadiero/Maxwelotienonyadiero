@@ -5,23 +5,37 @@ h1 {
   text-decoration: underline;
 }
 p{
-  color: blue;
+  color: red;
   font-family: cursive;
   font-size: 20px;
   border: 1px solid powederblue;
   padding: 30px;
 }
-body{
-  background-color: green;
-}
 img{
-  float: right;
+  float: left;
+  height: 4cm;
+  width: 6cm;
 }
 h2{
-  colour:red;
+  colour: white;
   padding: 20px;
   text-align: center;
 }
-img{
-  background-image: url("https://www.google.com/search?q=best+houses+in+kenya&tbm=isch&source=iu&ictx=1&fir=8vgs2jH6Fxr5wM%253A%252CENDr7y5imUVNGM%252C_&usg=AI4_-kS6dBXY3ZlB60KS8a_mt8tuOzjDaw&sa=X&ved=2ahUKEwjPmPTl6uzeAhVOYxoKHcLZBGsQ9QEwDHoECAIQBg#imgrc=8vgs2jH6Fxr5wM:");
+body {
+  background-image: url("https://www.acvap.org/wp-content/uploads/2018/04/Small-Modern-House-Plans.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+.text-box{
+  border: 2px solid brown;
+  paddind:6px;
+  margin:20px;
+  background-color: inherit;
+}
+.line1{
+  color: inherit;
+}
+#line2{
+  color: inherit;
 }
