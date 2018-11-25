@@ -51,3 +51,8 @@ ul > li{
   text-decoration: inherit;
   color: inherit;
 }
+ol{
+  color: inherit;
+  padding: 10px;
+  font-family: monospace;
+}
