@@ -42,7 +42,7 @@ body {
 .easy {
   color: inherit;
 }
-ul > nav{
+ul > li{
   margin-right: auto;
   padding: 10px;
   margin: 0 auto;
