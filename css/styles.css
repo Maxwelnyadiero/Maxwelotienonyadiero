@@ -51,6 +51,12 @@ ul > li{
   text-decoration: inherit;
   color: inherit;
 }
+.ul{
+  margin-right: auto;
+  padding: 5px;
+  margin: inherit;
+  max-width: none;
+}
 ol{
   color: inherit;
   padding: 10px;
