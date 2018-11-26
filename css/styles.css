@@ -42,16 +42,7 @@ body {
 .easy {
   color: inherit;
 }
-ul > li{
-  margin-right: auto;
-  padding: 10px;
-  margin: 0 auto;
-  max-width: 500px;
-  display: inline;
-  text-decoration: inherit;
-  color: inherit;
-}
-.ul{
+.ul >li{
   margin-right: auto;
   padding: 5px;
   margin: inherit;
